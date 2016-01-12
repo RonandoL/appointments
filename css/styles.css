@@ -1,0 +1,11 @@
+.appointments {
+  display: none;
+}
+
+#list li {
+  font-size: 1.25em;
+}
+
+.appointments {
+  background-color: #fff2e5;
+}
